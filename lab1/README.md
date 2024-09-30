@@ -48,6 +48,7 @@
         print("Hello, World!")
     ```
     - Додаb код до Jupyter Notebook.
+
       ![.ipynb](PNG/GPT.jpg)
 
 ---
