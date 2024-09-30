@@ -9,8 +9,8 @@
 ### Виконання роботи
 
 1. **Створиb папку для роботи**: 
-    - У кореневій папці репозиторію створено нову папку `1_python_program`.
-    - Скопіювали шаблон `README.md` до цієї папки.
+    - У кореневій папці репозиторію створено нову папку `lab1`.
+    - Скопіюваb шаблон `README.md` до цієї папки.
 
 2. **Встановиb необхідні плагіни у VSCode**:
     - Інстальовано плагін `Python`, а також додаткові плагіни, такі як `Jupyter`.
@@ -19,43 +19,36 @@
     - Створено файл `my_first_app.py` з таким кодом:
     ```python
     from datetime import datetime
-    name = "Your Name"
-    location = "Your City"
+    name = "Yevhen"
+    location = "Nurnberg"
 
     print(f"{name} start programming at {datetime.now()}. {location} is the best city!")
     ```
     - Програма вивела:
       ```text
-      Your Name start programming at 2024-09-12 12:00:00. Your City is the best city!
+      Yevhen start programming at 2024-09-30 05:27:16.027891. Nurnberg is the best city!
       ```
-    - Додали скріншот виконання програми.
+    - Додаb скріншот виконання програми.
+    - ![.py](lab1/PNG/Python.jpg)
 
 4. **Створиb Jupyter Notebook файл**:
     - Створено файл `my_first_app.ipynb`.
-    - Додали код програми у першу комірку та виконали її.
-    - Створили нову комірку з типом `Markdown`, де описали код, використовуючи заголовок:
+    - Додаb код програми у першу комірку та виконали її.
+    - Створиb нову комірку з типом `Markdown`, де описали код, використовуючи заголовок:
     ```markdown
     # Моя перша програма на Python
     ```
-    - Додали скріншот виконання Notebook.
+    - Додаb скріншот виконання Notebook.
+    - ![.ipynb](lab1/PNG/Jupytr1.jpg)
 
 5. **Інтерактивне використання AI**:
-    - Запитали ChatGPT, яку першу програму він би написав. Відповідь:
+    - Запитаb ChatGPT, яку першу програму він би написав. Відповідь:
     ```python
     def hello_world():
         print("Hello, World!")
     ```
-    - Додали код до Jupyter Notebook.
-
-6. **Робота з форматуванням Markdown**:
-    - Вставили зображення за допомогою URL:
-    ```markdown
-    ![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
-    ```
-    - Вставили зображення через локальні шляхи:
-    ```markdown
-    ![alt text](./pictures/logo-lit.jpg "ІТ Коледж")
-    ```
+    - Додаb код до Jupyter Notebook.
+    - ![.ipynb](lab1/PNG/GPT.jpg)
 
 ---
 
