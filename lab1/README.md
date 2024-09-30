@@ -29,7 +29,7 @@
       Yevhen start programming at 2024-09-30 05:27:16.027891. Nurnberg is the best city!
       ```
     - Додаb скріншот виконання програми.
-    - ![.py](PNG/Python.jpg)
+      ![.py](PNG/Python.jpg)
 
 4. **Створиb Jupyter Notebook файл**:
     - Створено файл `my_first_app.ipynb`.
@@ -39,7 +39,7 @@
     # Моя перша програма на Python
     ```
     - Додаb скріншот виконання Notebook.
-    - ![.ipynb](PNG/Jupytr1.jpg)
+      ![.ipynb](PNG/Jupytr1.jpg)
 
 5. **Інтерактивне використання AI**:
     - Запитаb ChatGPT, яку першу програму він би написав. Відповідь:
@@ -48,7 +48,7 @@
         print("Hello, World!")
     ```
     - Додаb код до Jupyter Notebook.
-    - ![.ipynb](PNG/GPT.jpg)
+      ![.ipynb](PNG/GPT.jpg)
 
 ---
 
