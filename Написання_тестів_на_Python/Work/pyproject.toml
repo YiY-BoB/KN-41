@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "figure-project"
+version = "0.1.0"
+description = "Проєкт для тестування класу Figure"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.0"
+coverage = "^7.2"
+pytest-cov = "^4.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
