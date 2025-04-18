@@ -10,13 +10,30 @@
   
 # Приклад виконання
 
-$ python main.py
-Сума парних елементів: 12
+## Файл `main.py`
 
-$ python -m unittest -v
-test_my_function (test.TestFunction) ... ok
+### Код
 
-----------------------------------------------------------------------
-Ran 1 test in 0.000s
+![](./main.py\(code\).jpg)
 
-OK
+### Вивід
+
+![](./main.py\(output\).jpg)
+
+---
+
+## Файл `test_main.py`
+
+### Код
+
+![](./test_main.py\(code\).jpg)
+
+### Вивід
+
+![](./test_main.py\(output\).jpg)
+
+---
+
+## Вивід у консолі
+
+![](./CMD\(output\).jpg)
