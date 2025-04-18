@@ -7,7 +7,9 @@
   ```bash
   python main.py
   python -m unittest -v
-Приклад виконання
+  
+# Приклад виконання
+
 $ python main.py
 Сума парних елементів: 12
 
